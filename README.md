@@ -5,7 +5,7 @@ A Java library that covers six core conversion functions between primitive types
 ##  Purpose
 Understand type casting, parsing, and conversion between common Java types.
 
-## 🔧Conversions Supported
+## Conversions Supported
 - `int` ↔ `String`
 - `boolean` ↔ `String`
 - `String` → `double`
