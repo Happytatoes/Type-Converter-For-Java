@@ -2,10 +2,10 @@
 
 A Java library that covers six core conversion functions between primitive types and strings/booleans. Designed for early practice with Java syntax and method design.
 
-## 🎯 Purpose
+##  Purpose
 Understand type casting, parsing, and conversion between common Java types.
 
-## 🔧 Conversions Supported
+## 🔧Conversions Supported
 - `int` ↔ `String`
 - `boolean` ↔ `String`
 - `String` → `double`
@@ -13,11 +13,11 @@ Understand type casting, parsing, and conversion between common Java types.
 - `int` → `boolean` (e.g., 0 = false, other = true)
 - `boolean` → `int` (true = 1, false = 0)
 
-## 🛠️ Tech
+## Tech
 - Java 11+
 - CLI or unit tests for verification
 
-## 🧪 Sample Methods
+## Sample Methods
 
 Conversions.intToString(42);         // returns "42"
 Conversions.stringToBoolean("true"); // returns true
